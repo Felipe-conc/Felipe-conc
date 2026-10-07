@@ -10,14 +10,14 @@ Atualmente, trabalho na **[Lucedata](https://www.lucedata.com.br/)**, atuando pr
 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/felipe-in%C3%A1cio-concei%C3%A7%C3%A3o/">
+    <a href="https://www.linkedin.com/in/felipe-in%C3%A1cio-concei%C3%A7%C3%A3o/" target="_blank">
         <img 
             alt="LinkedIn"
             title="Meu LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=LinkedIn_icon&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="https://github.com/Felipe-conc">
+    <a href="https://github.com/Felipe-conc" target="_blank">
         <img 
             alt="GitHub"
             title="Meu GitHub"
